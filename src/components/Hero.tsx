@@ -25,7 +25,7 @@ const Hero = () => {
                 <span className="text-mint-500">Every Time.</span>
               </h1>
               <p className="text-xl text-slate-600 leading-relaxed max-w-lg">
-                From business cards to billboards—Aflowyinks delivers color-accurate prints with fast Lagos turnaround.
+                From business cards to billboards—Aflowyinks delivers color-accurate prints with fast turnaround.
               </p>
             </div>
 
