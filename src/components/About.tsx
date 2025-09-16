@@ -79,9 +79,10 @@ const About = () => {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-4 overflow-hidden rounded-full border-4 border-coral-500 shadow-lg">
                 <img 
-                  src="/ceo.jpeg" 
+                  src={`${import.meta.env.BASE_URL}ceo.jpeg`}
                   alt="Ogundare Olayinka Afolabi - CEO & Founder of Aflowyinks Prints"
                   className="w-full h-full object-cover"
+                  loading="lazy"
                 />
               </div>
               <div className="text-slate-600">
