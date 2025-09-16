@@ -79,7 +79,7 @@ const About = () => {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-4 overflow-hidden rounded-full border-4 border-coral-500 shadow-lg">
                 <img 
-                  src="/WhatsApp Image 2025-09-15 at 4.25.54 PM.jpeg" 
+                  src="/ceo.jpeg" 
                   alt="Ogundare Olayinka Afolabi - CEO & Founder of Aflowyinks Prints"
                   className="w-full h-full object-cover"
                 />
