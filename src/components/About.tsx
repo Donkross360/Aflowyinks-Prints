@@ -1,5 +1,4 @@
-import React from 'react';
-import { Award, Users, MapPin, Target } from 'lucide-react';
+import { Award, Target } from 'lucide-react';
 import ceoImage from '../assets/ceo.jpeg';
 
 const About = () => {
